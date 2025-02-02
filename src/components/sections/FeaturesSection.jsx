@@ -21,7 +21,7 @@ function FeaturesSection() {
     >
       <div className="max-w-7xl mx-auto px-6">
         <h2 className="text-4xl font-space font-bold text-center mb-16">
-          Why Choose <span className="gradient-text">CryptoHub</span>
+          Why Choose <span className="gradient-text">DappServer</span>
         </h2>
         
         <div className="grid md:grid-cols-3 gap-8">
